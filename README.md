@@ -45,10 +45,5 @@ Modify `config.py` to customize:
 - Improved visualization of societies and civilizations.
 - Multiverse simulations with parallel universes.
 
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 Enjoy exploring the alternate universe of **AI - Alternate Reality (AIAR)**! 🌍✨
 
